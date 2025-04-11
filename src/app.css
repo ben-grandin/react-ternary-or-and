@@ -1,0 +1,20 @@
+.test {
+  background: indianred;
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+.test p {
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+  height: 4rem;
+  margin: 5px;
+  padding: 5px;
+}
+
+p,
+h2 {
+  margin: 0;
+}
